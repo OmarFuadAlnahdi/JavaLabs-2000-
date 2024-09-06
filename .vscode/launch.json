@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "First_100.Time",
+            "projectName": "JavaLabs-2000-_5a7b234b"
+        },
+        {
+            "type": "java",
             "name": "Date",
             "request": "launch",
             "mainClass": "First_100.Date",
