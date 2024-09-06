@@ -11,8 +11,8 @@ public class Main{
         console.Clear(); 
         
 
-        System.out.println("Hello world");
-        System.out.println("How are you?");
+        System.out.println("Hello world"); //print one line
+        System.out.println("How are you?"); // print another
         
          
 
